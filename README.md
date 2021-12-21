@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Check out a live version of the frontend clone by clicking [here](https://mrm-movieflix.web.app/)
 
 ## Available Scripts
 
